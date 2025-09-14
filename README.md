@@ -9,3 +9,6 @@ Repositório criado para a realização da **Atividade 02** da disciplina, com f
 
 ## 🚀 Objetivo
 Praticar o uso das propriedades do Flexbox para estruturar e alinhar elementos em diferentes contextos de layout.
+
+## 🔗 Repositório da atividade
+[GitHub - flex-box-atividade-02](https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-02)
